@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=firebolt77811&style=for-the-badge&color=orange" alt=""/>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=firebolt77811&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Skills

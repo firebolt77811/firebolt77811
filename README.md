@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=firebolt77811&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=firebolt77811&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=firebolt77811&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience))
 
 ## 🛠️ Skills
 | Domain | Skills |

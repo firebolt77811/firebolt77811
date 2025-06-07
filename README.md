@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=phoenix77811&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=phoenix77811&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience))
+[![trophy](https://github-profile-trophy.vercel.app/?username=phoenix-legend7&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=phoenix-legend7&theme=algolia&&title=-PullRequest,-Reviews,-Issues,-Experience))
 
 ## 🛠️ Skills
 | Domain | Skills |
@@ -16,26 +16,26 @@
 
 ## 📈 Stats
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=phoenix77811&show_icons=true&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=phoenix-legend7&show_icons=true&theme=vision-friendly-dark">
 </p>
 
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix77811&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-legend7&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=phoenix77811&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=phoenix77811&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=phoenix-legend7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=phoenix-legend7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix77811&repo=Open-WebUI)](https://github.com/phoenix77811/Open-WebUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix77811&repo=VoiceAgentPDF-Frontend)](https://github.com/phoenix77811/VoiceAgentPDF-Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix-legend7&repo=Open-WebUI)](https://github.com/phoenix-legend7/Open-WebUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix-legend7&repo=VoiceAgentPDF-Frontend)](https://github.com/phoenix-legend7/VoiceAgentPDF-Frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix77811&repo=Milkdown-website)](https://github.com/phoenix77811/Milkdown-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix77811&repo=VoiceAgentPDF-Backend)](https://github.com/phoenix77811/VoiceAgentPDF-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix-legend7&repo=Milkdown-website)](https://github.com/phoenix-legend7/Milkdown-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix-legend7&repo=VoiceAgentPDF-Backend)](https://github.com/phoenix-legend7/VoiceAgentPDF-Backend)
 
 ## 📜 License
 
